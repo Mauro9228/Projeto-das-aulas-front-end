@@ -1,0 +1,20 @@
+.container-prod2{
+    max-width:450px;
+    box-shadow: 0 0 0 3px rgba(0, 0,0, 0.2);
+    border-radius: 25px;
+    margin: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container-prod2 img{
+    max-width:350px;
+    
+}
+
+.container-prod2 p{
+    margin: 20px 0;
+}

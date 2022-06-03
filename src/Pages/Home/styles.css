@@ -1,0 +1,17 @@
+
+
+.container-home p{
+    justify-content:center;
+    align-items: center;
+    margin-left:350px;
+
+}
+
+.container-home img{
+    justify-content:center;
+    align-items: center;
+    margin-left:500px;
+    padding: 50px;
+    
+    
+}
